@@ -1,0 +1,14 @@
+body {
+  font-family: "aktiv-grotesk",sans-serif;
+  font-style: normal;
+  font-weight: 500;
+}
+head {
+  font-family: "aktiv-grotesk",sans-serif;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.okwhen {
+  opacity: .4;
+}

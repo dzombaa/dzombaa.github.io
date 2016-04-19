@@ -3,14 +3,18 @@ body {
   background-color: #F05B51;
   margin: 30px 100px 0px;
 }
+
 h1 {
   font-family: "aktiv-grotesk",sans-serif;
   font-style: normal;
   font-weight: 500;
   color: #fff;
   letter-spacing: 2.33px;
-  line-height: 50px;
+  line-height:.3vw;
+  font-size: 6vw;
+  margin-top: 50px;
 }
+
 p {
   font-family: "aktiv-grotesk",sans-serif;
   font-style: normal;

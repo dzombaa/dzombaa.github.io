@@ -41,3 +41,8 @@ p.side {
 div.answerssection p {
   margin:0;
 }
+
+.ok::before {
+    content: " It's ok to help when";
+    opacity: .4;
+}

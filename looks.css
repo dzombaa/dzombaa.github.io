@@ -60,6 +60,6 @@ div.answerssection p {
 }
 
 .pictures {
-  align-content: center;
-  width: 100vw;
+  text-align: center;
+  width: 20vw;
 }

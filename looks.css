@@ -1,6 +1,7 @@
 
 body {
   background-color: #F05B51;
+  margin: 30px 100px 0px;
 }
 h1 {
   font-family: "aktiv-grotesk",sans-serif;
@@ -8,14 +9,14 @@ h1 {
   font-weight: 500;
   color: #fff;
   letter-spacing: 2.33px;
-  line-height: 60px;
-  margin: 30px 100px 0px;
+  line-height: 50px;
 }
 p {
   font-family: "aktiv-grotesk",sans-serif;
   font-style: normal;
   color: #fff;
   font-weight: 700;
+  line-height: 50px;
 }
 
 .okwhen {
@@ -24,8 +25,9 @@ p {
 
 p.side {
   font-size: 15px;
+  letter-spacing: 1.79px;
   transform: rotate(90deg);
   transform-origin: left top 0;
   float: right;
-  margin-right: 2px;
+  margin-right: 0px;
 }

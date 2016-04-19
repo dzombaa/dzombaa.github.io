@@ -38,6 +38,10 @@ p.side {
   right: 0;
 }
 
+a:hover {
+  opacity: .8;
+}
+
 div.answerssection p {
   margin:0;
 }
@@ -45,4 +49,8 @@ div.answerssection p {
 .ok::before {
     content: " It's ok to help when";
     opacity: .4;
+}
+
+.centered {
+  text-align: center;
 }

@@ -10,8 +10,8 @@ h1 {
   font-weight: 500;
   color: #fff;
   letter-spacing: 2.33px;
-  line-height:.3vw;
-  font-size: 6vw;
+  line-height: 5vw;
+  font-size: 4vw;
   margin-top: 50px;
 }
 
@@ -19,8 +19,9 @@ p {
   font-family: "aktiv-grotesk",sans-serif;
   font-style: normal;
   color: #fff;
+  line-height: 2.5vw;
+  font-size: 1.8vw;
   font-weight: 700;
-  line-height: 50px;
 }
 
 .okwhen {
@@ -28,10 +29,11 @@ p {
 }
 
 p.side {
-  font-size: 15px;
-  letter-spacing: 1.79px;
+  font-size: 1vw;
+  letter-spacing: 2px;
   transform: rotate(90deg);
-  transform-origin: left top 0;
-  float: right;
-  margin-right: 0px;
+  clear: right;
+  position: fixed;
+  bottom: 5vw;
+  right: 0;
 }

@@ -28,14 +28,14 @@ span.okwhen {
   opacity: .4;
 }
 
-span.side {
+div.side {
   font-size: 1vw;
   color: #fff;
   letter-spacing: 2px;
   transform: rotate(90deg);
   clear: right;
   position: fixed;
-  bottom: 5vw;
+  bottom: 4vw;
   right: 0;
 }
 
@@ -54,6 +54,12 @@ div.answerssection p {
 }
 
 .about {
-  text-align: center;
+  text-align: left;
   font-size: 2vw;
+  line-height: 1.5vw;
+}
+
+.pictures {
+  align-content: center;
+  width: 100vw;
 }

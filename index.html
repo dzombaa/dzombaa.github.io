@@ -10,8 +10,7 @@
   <script src="https://use.typekit.net/nvx6nso.js"></script>
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
   <!--<script> $("<span class="okwhen"> It's ok to help when </span>").prependTo( ".answer" ); </script> -->
-  <script>$( ".answer" ).prepend( "<span class="okwhen"> It's ok to help when </span>" );</script>
-
+  <script>$( ".answer" ).prepend( $.parseHTML( "<span class="okwhen"> It's ok to help when </span>" ));</script>
 </head>
 
 <body>

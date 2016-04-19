@@ -1,9 +1,13 @@
+head {
+  background-color: #F05B51;
+}
+
 body {
   font-family: "aktiv-grotesk",sans-serif;
   font-style: normal;
   font-weight: 500;
 }
-head {
+p {
   font-family: "aktiv-grotesk",sans-serif;
   font-style: normal;
   font-weight: 700;

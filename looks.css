@@ -9,6 +9,7 @@ h1 {
   color: #fff;
   letter-spacing: 2.33px;
   line-height: 60px;
+  margin: 30px 100px 0px;
 }
 p {
   font-family: "aktiv-grotesk",sans-serif;
@@ -19,4 +20,12 @@ p {
 
 .okwhen {
   opacity: .4;
+}
+
+p.side {
+  font-size: 15px;
+  transform: rotate(90deg);
+  transform-origin: left top 0;
+  float: right;
+  margin-right: 2px;
 }

@@ -29,7 +29,11 @@ span.okwhen {
 }
 
 .side {
+  font-family: "aktiv-grotesk",sans-serif;
+  font-style: normal;
+  font-weight: 500;
   font-size: 1vw;
+  color: #fff;
   letter-spacing: 2px;
   transform: rotate(90deg);
   clear: right;
@@ -43,7 +47,7 @@ a:hover {
 }
 
 div.answerssection p {
-  margin:.5;
+  margin:.2;
 }
 
 .ok::before {

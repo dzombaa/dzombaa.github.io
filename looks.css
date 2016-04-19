@@ -37,3 +37,7 @@ p.side {
   bottom: 5vw;
   right: 0;
 }
+
+div.answerssection p {
+  margin:0;
+}

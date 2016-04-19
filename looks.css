@@ -1,15 +1,19 @@
-head {
-  background-color: #F05B51;
-}
 
 body {
+  background-color: #F05B51;
+}
+h1 {
   font-family: "aktiv-grotesk",sans-serif;
   font-style: normal;
   font-weight: 500;
+  color: #fff;
+  letter-spacing: 2.33px;
+  line-height: 60px;
 }
 p {
   font-family: "aktiv-grotesk",sans-serif;
   font-style: normal;
+  color: #fff;
   font-weight: 700;
 }
 

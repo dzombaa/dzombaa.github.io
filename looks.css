@@ -28,7 +28,7 @@ span.okwhen {
   opacity: .4;
 }
 
-p.side {
+.side {
   font-size: 1vw;
   letter-spacing: 2px;
   transform: rotate(90deg);
@@ -43,7 +43,7 @@ a:hover {
 }
 
 div.answerssection p {
-  margin:0;
+  margin:.5;
 }
 
 .ok::before {

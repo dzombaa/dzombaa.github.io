@@ -28,10 +28,7 @@ span.okwhen {
   opacity: .4;
 }
 
-.side {
-  font-family: "aktiv-grotesk",sans-serif;
-  font-style: normal;
-  font-weight: 500;
+span.side {
   font-size: 1vw;
   color: #fff;
   letter-spacing: 2px;
@@ -43,11 +40,12 @@ span.okwhen {
 }
 
 a:hover {
+  color: #fff
   opacity: .8;
 }
 
 div.answerssection p {
-  margin:.2;
+  margin:0;
 }
 
 .ok::before {
@@ -55,6 +53,7 @@ div.answerssection p {
     opacity: .4;
 }
 
-.centered {
+.about {
   text-align: center;
+  font-size: 2vw;
 }
